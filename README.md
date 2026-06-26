@@ -19,8 +19,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlospereira4-arch&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospereira4-arch&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=carlospereira4-arch&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospereira4-arch&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </p>
 
 ---
