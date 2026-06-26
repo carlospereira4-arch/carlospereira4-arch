@@ -17,7 +17,6 @@
 ---
 
 ### 📊 GitHub Stats
-*(Make sure to replace `YOUR-GITHUB-USERNAME` in the links below with your actual GitHub username!)*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=carlospereira4-arch&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
